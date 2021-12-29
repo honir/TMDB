@@ -1,4 +1,4 @@
-# WWW:TMDB::API  0.5.0
+# WWW::TMDB::API  0.5.0
 
 ## Summary
 
@@ -12,7 +12,7 @@ This project is a fork of the CPAN module WWW::TMDB::API written by Maria Celina
 
 Alternative packages are feature-rich and therefore more code-heavy. Therefore I decided to update the 2012 package to make it work in 2022, adding a few recent features along the way, while keeping its lightweight nature.
 
-The package is not meant to provide all the functionality of the TMDB API: its purpose is to perform basic searching of movies and tv programmes, and allow you to retrieve programme metadata including cast, crew, and keywords data.
+The package is not meant to provide all the functionality of the TMDB API - its purpose is to perform basic searching of movies and tv programmes, and allow you to retrieve programme metadata including cast, crew, and keywords data.
 
 ## Changes
 
