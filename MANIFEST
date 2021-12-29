@@ -1,0 +1,13 @@
+Changes
+lib/WWW/TMDB/API.pm
+lib/WWW/TMDB/API/Config.pm
+lib/WWW/TMDB/API/Movie.pm
+lib/WWW/TMDB/API/Person.pm
+lib/WWW/TMDB/API/Tv.pm
+Makefile.PL
+MANIFEST			This list of files
+README
+t/00-load.t
+t/manifest.t
+t/pod-coverage.t
+t/pod.t
